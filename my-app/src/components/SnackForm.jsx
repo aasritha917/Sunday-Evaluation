@@ -1,4 +1,7 @@
 import React, { useState } from "react";
+import { db } from "../firebase"; // adjust the path accordingly
+import { ref, onValue, set, remove } from "firebase/database";
+
 
 export default function SnackForm() {
   const [title, setTitle] = useState("");

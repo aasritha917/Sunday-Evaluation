@@ -1,7 +1,10 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useState, useEffect, useRef } from 'react';
 import SnackForm from "../components/SnackForm";
 import FilterSort from "../components/FilterSort";
 import Pagination from "../components/Pagination";
+import { db } from "../firebase"; // adjust the path accordingly
+import { ref, onValue, set, remove } from "firebase/database";
+
 
 export default function Home() {
   const [snacks, setSnacks] = useState({});
