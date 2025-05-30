@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { db } from "../firebase"; // adjust the path accordingly
+import { db } from "../firebase";
 import { ref, onValue, set, remove } from "firebase/database";
 
 

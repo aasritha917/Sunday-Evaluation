@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import SnackForm from "../components/SnackForm";
 import FilterSort from "../components/FilterSort";
 import Pagination from "../components/Pagination";
-import { db } from "../firebase"; // adjust the path accordingly
+import { db } from "../firebase";
 import { ref, onValue, set, remove } from "firebase/database";
 
 
