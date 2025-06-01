@@ -5,7 +5,6 @@ const App = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const todosPerPage = 10;
 
-  // Fetch todos once when the component mounts
   useEffect(() => {
     fetch('https://jsonplaceholder.typicode.com/todos')
       .then((res) => res.json())
