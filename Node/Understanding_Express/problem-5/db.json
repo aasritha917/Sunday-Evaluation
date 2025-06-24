@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav",
+      "course": "Full Stack Web",
+      "batch": "April 2025"
+    },
+    {
+      "id": 2,
+      "name": "Priya Mehra",
+      "course": "Data Science",
+      "batch": "May 2025"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Idly",
+        "price": 50,
+        "category": "Breakfast"
+    },
+    {
+        "id": 2,
+        "name": "Dosa",
+        "price": 30,
+        "category": "Breakfast"
+    },{
+        "id": 3,
+        "name": "Puri",
+        "price": 40,
+        "category": "Breakfast"
+    },{
+        "id": 4,
+        "name": "pongal",
+        "price": 50,
+        "category": "Breakfast"
+    },
+    {
+        "id": 5,
+        "name": "Idly Fry",
+        "price": 70,
+        "category": "Breakfast"
+    }
+]
