@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "title": "Assessment",
+      "completed": true
+    },
+    {
+      "title": "dsa",
+      "completed": true
+    }
+  ]
+}

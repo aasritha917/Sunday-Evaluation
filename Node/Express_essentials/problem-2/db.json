@@ -1,0 +1,44 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Login Issue",
+      "description": "User cannot log in with correct credentials.",
+      "priority": "high",
+      "user": "Aarav Sharma",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Page Crash",
+      "description": "Home page crashes on loading.",
+      "priority": "medium",
+      "user": "Meera Iyer",
+      "status": "resolved"
+    },
+    {
+      "id": 3,
+      "title": "Password Reset Not Working",
+      "description": "Reset email not sent to users.",
+      "priority": "low",
+      "user": "Ravi Kumar",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Billing Issue",
+      "description": "User charged twice for same service.",
+      "priority": "high",
+      "user": "Sana Verma",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "Missing Notification",
+      "description": "Push notifications are not being delivered.",
+      "priority": "medium",
+      "user": "Aditya Joshi",
+      "status": "resolved"
+    }
+  ]
+}

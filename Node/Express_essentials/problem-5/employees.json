@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "position": "Developer",
+    "department": "IT",
+    "salary": 70000,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "position": "HR Manager",
+    "department": "HR",
+    "salary": 60000,
+    "status": "active"
+  }
+]
